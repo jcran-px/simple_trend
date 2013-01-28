@@ -1,0 +1,17 @@
+Simple Trend is an easy-to-use utility that scans and stores network information. It allows you to easily discover and alert on changes on a network over time. 
+
+Features: 
+ * Automated Internal/External Scans
+ * Flexible Querying/Alerting System
+ * Parsing Nmap XML results
+ * Easy access to Nmap's data in a database ( SQLite, MySQL or Postgres)
+ * Runs on Linux, BSD and Windows
+
+Similar Projects:
+ * PBNJ - http://pbnj.sourceforge.net/
+ * Nmap - http://insecure.org
+
+Helpful Sites / References:
+===========================
+* http://datamapper.org/
+* http://blog.jerodsanto.net/2009/02/a-simple-ruby-method-to-send-emai/
